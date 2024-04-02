@@ -6,7 +6,4 @@
 <br/>
 
 
-<div></div>
-<img alt="Tools & Technologies" height="50" src="/assets/languages/tools.png" />    
-<div></div>
-    
+
